@@ -42,8 +42,7 @@ header {
 }
 
 .logo-image {
-    width: 500px;
-    
+    width: 40vw;
     margin-left: 100px;
     display: inline-block;
 
@@ -52,6 +51,8 @@ header {
 section {
     display: inline-block;
     margin-left: 86px;
+    position: absolute;
+    top: 30px;
 }
 
 h1 {
